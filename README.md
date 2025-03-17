@@ -46,6 +46,8 @@ More specifically, you were asked to:
 
 ![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/84d74b50d6b9db00396ca2ee4a344920702cfd3a/Screenshot%203.png)
 
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/26082ac8e095ef7c0e71ea37ec1926a3606dc7f8/Screenshot%204.png)
+
 # Step 4: Use Analyze to Generate Visualizations
 
   1. On the Line Chart, identify and right-click on the 7th of March. From the context menu, select Analyze and then choose Explain the increase to automatically generate visualizations for that specific day.
