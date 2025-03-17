@@ -86,6 +86,6 @@ More specifically, you were asked to:
 
   4. Add a Treemap visualization to show the difference in Order Total accumulated by all three Product Clusters.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/f36de7c2fc45e569a14bd976b832c549014b81aa/Screenshot%209.png)
 
 
