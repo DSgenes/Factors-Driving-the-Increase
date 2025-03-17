@@ -34,5 +34,34 @@ More specifically, you were asked to:
 
 ![image_alt]()
 
+# Step 3: Utilize Clustering to Enhance Analysis
+
+  1. Add a Scatter Chart with Product Name in the Values field, Order Total on the X-axis, and Product Price on the Y-axis. Due to the presence of outliers in the dataset, applying a clustering technique will help refine your analysis.
+
+  2. Click the ellipsis in the top-right corner of the chart and select Automatically find clusters to enable clustering.
+
+![image_alt]()
+
+  3. Assign names and descriptions to the clusters based on your analysis. Then, set the Number of Clusters to 3 to define the segmentation.
+
+![image_alt]()
+
+# Step 4: Use Analyze to Generate Visualizations
+
+  1. On the Line Chart, identify and right-click on the 7th of March. From the context menu, select Analyze and then choose Explain the increase to automatically generate visualizations for that specific day.
+
+![image_alt]()
+
+  2. In the Explain the Increase pop-up window, identify the fields that had the most influence on the sales spike for the 7th of March. These fields include Product Size, Product Category, Product Cluster, Payment Method, and Location, 
+ 
+     which all contributed to the highest sales spike for that day.
+
+  3. Close the pop-up window, then right-click on the 3rd of March on the Line Chart. Use the Analyze feature again to open the Explain the Increase window for that specific day.
+
+![image_alt]()
+
+  4. Scroll through the visualizations in the Explain the Increase window to identify the positive factors contributing to the sales spike on the 3rd of March. The fields Product Size, Product Category, and Product Cluster appear to have
+
+     the most significant impact on the spike in sales for that day.
 
 
