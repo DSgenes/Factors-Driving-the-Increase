@@ -88,4 +88,28 @@ More specifically, you were asked to:
 
 ![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/f36de7c2fc45e569a14bd976b832c549014b81aa/Screenshot%209.png)
 
+# Step 6: Provide Feedback on the Analyze Visualizations
 
+  1. Select the Line Chart and navigate back to the Explain the Increase pop-up for the 7th of March using the Analyze feature.
+
+  2. Upon reviewing the visualizations, you may notice that the chart analyzing Order Total by Customer Surname lacks valuable insights. To improve this, provide feedback by selecting the
+
+     thumbs-down button in the top-right corner of the window.
+
+![image_alt]()
+
+  3. Locate the three most important factors contributing to the sales increase: Product Category, Product Size, and Product Name (clusters). Provide positive feedback on these factors for
+
+     their impact.
+
+  4. In the Product Category visualization, select the cross button in the top-right to add it to the report.
+
+![image_alt]()
+
+  5. Readjust the size of all visualizations to fit the canvas and customize them according to your company’s standards. The final report should closely resemble the following screenshot.
+
+![image_alt]()
+
+# Key Takeaways : 
+
+In the "Factors driving the increase" exercise, you created an insightful report analyzing the sudden rise in Adventure Works' sales using the Analyze feature in Power BI. While your visualizations may differ in format and layout, the key takeaway is that you've provided valuable insights for the management team. This analysis can guide their decisions on how to sustain the sales increase moving forward.
