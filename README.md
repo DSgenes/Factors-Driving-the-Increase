@@ -44,7 +44,7 @@ More specifically, you were asked to:
 
   3. Assign names and descriptions to the clusters based on your analysis. Then, set the Number of Clusters to 3 to define the segmentation.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/72690e6d79e87870932c7cbf35d0c06b858ec0d3/Screenshot%202.png)
 
 # Step 4: Use Analyze to Generate Visualizations
 
