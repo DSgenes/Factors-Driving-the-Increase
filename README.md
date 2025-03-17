@@ -96,8 +96,6 @@ More specifically, you were asked to:
 
      thumbs-down button in the top-right corner of the window.
 
-![image_alt]()
-
   3. Locate the three most important factors contributing to the sales increase: Product Category, Product Size, and Product Name (clusters). Provide positive feedback on these factors for
 
      their impact.
