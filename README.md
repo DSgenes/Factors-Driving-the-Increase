@@ -66,4 +66,23 @@ More specifically, you were asked to:
  
      Product Category, and Product Cluster appear to have the most significant impact on the spike in sales for that day.
 
+# Step 5: Add Visualizations Based on Key Insights
+
+  After identifying the three attributes contributing to the sales spikes, proceed with the following steps:
+
+  1. Return to the Data View to determine the cardinality of Product Size, Product Cluster, and Product Category:
+
+  2. Product Size: 2 distinct values
+
+     Product Cluster: 3 distinct values
+
+     Product Category: 7 distinct values
+
+  3. Add visualizations for the first two categories.
+
+     Since Product Size has only two values, a Pie or Donut Chart is ideal. Use it to display the difference in Order Total for each product size.
+
+![image_alt]()
+
+
 
