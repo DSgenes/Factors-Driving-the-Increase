@@ -52,7 +52,7 @@ More specifically, you were asked to:
 
   1. On the Line Chart, identify and right-click on the 7th of March. From the context menu, select Analyze and then choose Explain the increase to automatically generate visualizations for that specific day.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/8d35fc7e1ab10c354d21c2ad74073bad17f2cd51/Screenshot%205.png)
 
   2. In the Explain the Increase pop-up window, identify the fields that had the most influence on the sales spike for the 7th of March. These fields include Product Size, Product Category, Product Cluster, Payment Method, and Location, 
  
