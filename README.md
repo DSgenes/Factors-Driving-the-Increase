@@ -82,7 +82,7 @@ More specifically, you were asked to:
 
      Since Product Size has only two values, a Pie or Donut Chart is ideal. Use it to display the difference in Order Total for each product size.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/3ca938585ff345af7da3fe0bdbfe3a6c17fae66e/Screenshot%208.png)
 
 
 
