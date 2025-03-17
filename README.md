@@ -32,7 +32,7 @@ More specifically, you were asked to:
 
   4. Using the Line Chart created in the previous step, identify the 3rd and 7th of March as the two distinct days when there was a noticeable spike in sales.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/f819fc43dc0ea7e7c7775ee12dd97142e32cf886/Screenshot%201.png)
 
 # Step 3: Utilize Clustering to Enhance Analysis
 
