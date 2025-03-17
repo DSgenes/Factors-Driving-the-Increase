@@ -60,10 +60,10 @@ More specifically, you were asked to:
 
   3. Close the pop-up window, then right-click on the 3rd of March on the Line Chart. Use the Analyze feature again to open the Explain the Increase window for that specific day.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/b890f6897d08932f92dceecb293f21ed953113b7/Screenshot%207.png)
 
-  4. Scroll through the visualizations in the Explain the Increase window to identify the positive factors contributing to the sales spike on the 3rd of March. The fields Product Size, Product Category, and Product Cluster appear to have
-
-     the most significant impact on the spike in sales for that day.
+  4. Scroll through the visualizations in the Explain the Increase window to identify the positive factors contributing to the sales spike on the 3rd of March. The fields Product Size, 
+ 
+     Product Category, and Product Cluster appear to have the most significant impact on the spike in sales for that day.
 
 
