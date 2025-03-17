@@ -104,7 +104,7 @@ More specifically, you were asked to:
 
   4. In the Product Category visualization, select the cross button in the top-right to add it to the report.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/691a26a553ba8385990cefe36ca4c03a70f5548e/Screenshot%2010.png)
 
   5. Readjust the size of all visualizations to fit the canvas and customize them according to your company’s standards. The final report should closely resemble the following screenshot.
 
