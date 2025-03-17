@@ -106,7 +106,7 @@ More specifically, you were asked to:
 
   5. Readjust the size of all visualizations to fit the canvas and customize them according to your company’s standards. The final report should closely resemble the following screenshot.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Factors-Driving-the-Increase/blob/e128d545239211ac9a3f8e171dd0b163f40be371/Screenshot%2011.png)
 
 # Key Takeaways : 
 
